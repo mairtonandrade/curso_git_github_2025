@@ -1,0 +1,3 @@
+ls -> LISTA O QUE TEM NO DIRETÓRIO
+cd -> troca de diretório 
+pwd -> mostra o caminho absoluto 
