@@ -1,5 +1,8 @@
 # CURSO TEOMEWHY GIT & GITHUB 2025
 
+novo teste dentro
+do vscode
+
 SINOPSE
 git remoto [-v | --verbose]
  git remote add [-t <ramificação>] [-m <mestre>] [-f] [--[sem] tags] [--mirror=(buscar|empurrar)] <nome> <URL>
